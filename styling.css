@@ -1,0 +1,26 @@
+#body{
+  background-color: #34343d;
+}
+#p{
+  font-size:30px;
+}
+#button
+{
+  font-size: 20px;
+  font-style: italic;
+  color: black;
+}
+#firstname{
+  font-size: 15px;
+  font-style: normal;
+  color: black;
+}
+#lastname{
+  font-size: 15px;
+  font-style: normal;
+  color: black;
+}
+.p1{
+  font-size: 20px;
+  font-style: italic;
+}
